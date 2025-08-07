@@ -31,4 +31,7 @@ All decisions are made using structured, algorithm-based logic.
 ---
 
 ## 📂 File Structure
+main.c // Source code
+input.txt // Sample input data (slum area stats, etc.)
+README.md // Project description (this file)
 
