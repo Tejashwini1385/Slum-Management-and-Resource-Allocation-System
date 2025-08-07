@@ -1,0 +1,5 @@
+Area1 70 Robbery Station1 High
+Area2 30 Burglary Station2 Medium
+Area3 90 Assault Station3 Low
+Area4 40 Theft Station4 High
+Area5 20 Vandalism Station5 Medium

@@ -1,0 +1,5 @@
+Slum1 John 70.5 25 Jane 80.2 22 Bob 60.8 30 Alice 75.3 28 Jake 65.5 24 Emma 85.1 26
+Slum2 Mike 78.3 29 Sarah 68.7 27 Tom 72.6 32 Laura 88.5 30 Chris 66.2 26 Olivia 79.8 28
+Slum3 Emily 92.1 31 Ethan 85.7 29 Ava 88.4 35 Liam 75.6 33 Sophia 80.2 32 Noah 79.9 30
+Slum4 Mia 75.2 26 Lucas 82.3 28 Isabella 90.5 30 Jackson 78.6 32 Harper 86.2 29 Benjamin 77.8 31
+Slum5 Amelia 80.4 27 Oliver 76.9 30 Charlotte 87.3 32 Henry 72.8 28 Ella 78.9 29 Liam 81.6 31

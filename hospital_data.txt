@@ -1,0 +1,31 @@
+5
+SlumArea1 5
+SubArea1 100 2.5 3
+SubArea2 120 3.0 2.8
+SubArea3 90 2.0 3.5
+SubArea4 110 2.8 3.2
+SubArea5 95 2.2 3.7
+SlumArea2 5
+SubArea1 80 2.0 4.0
+SubArea2 75 1.8 4.5
+SubArea3 85 2.5 3.8
+SubArea4 95 3.2 3.0
+SubArea5 70 1.5 4.2
+SlumArea3 5
+SubArea1 120 3.0 2.5
+SubArea2 110 2.8 3.0
+SubArea3 105 2.3 3.3
+SubArea4 115 3.5 2.8
+SubArea5 125 3.8 2.2
+SlumArea4 5
+SubArea1 90 2.2 3.7
+SubArea2 85 2.0 4.0
+SubArea3 80 1.8 4.2
+SubArea4 95 2.5 3.5
+SubArea5 100 3.0 3.2
+SlumArea5 5
+SubArea1 110 2.8 3.0
+SubArea2 105 2.5 3.3
+SubArea3 115 3.0 2.8
+SubArea4 120 3.5 2.5
+SubArea5 125 3.8 2.2
